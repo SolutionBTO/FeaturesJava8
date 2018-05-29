@@ -1,0 +1,12 @@
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+.metadata
+.settings/
+target/
+.project
+.classpath
+.tern-project
+.externalToolBuilders/
